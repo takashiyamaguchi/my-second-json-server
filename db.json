@@ -1,14 +1,9 @@
 {
-  "sample": {
-    "id": 100,
-    "name": "TEST"
-  },
-  "sample2": {
-    "id": 200,
-    "name": "TEST2"
-  },
-  "sample3": {
-    "id": 300,
-    "name": "TEST3"
-  }
+  "data": [
+    {"id": 1},
+    {"id": 2},
+    {"id": 3},
+    {"id": 4},
+    {"id": 5}
+  ]
 }
