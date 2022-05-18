@@ -1,0 +1,1306 @@
+{
+  "brandroomCarousel": {
+    "result": {
+      "code": 0,
+      "message": ""
+    },
+    "total": 16,
+    "content_list": [
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ①の説明文です。",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ②の説明文です。",
+        "link_url": "https://aaa.com/yyy",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ②の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000002"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ③の説明文です。",
+        "link_url": "https://aaa.com/zzz",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ③の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ④の説明文です。",
+        "link_url": "https://aaa.com/zzz#hashtest",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ④の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ⑤の説明文です。",
+        "link_url": "https://aaa.com/zzz#hashtest?param=aaa",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑤の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ⑥の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑥の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ⑦の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑦の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ⑧の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑧の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ⑨の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑨の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ⑩の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑩の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツⅺの説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツⅺの画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ１２の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１２の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ１３の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１３の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ１４の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１４の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ１５の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１５の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "104",
+        "explanatory_text": "コンテンツ１６の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１６の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      }
+    ]
+  },
+  "brandroomContents": {
+    "result": {
+      "code": 0,
+      "message": ""
+    },
+    "total": 16,
+    "content_list": [
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ①の説明文です。",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ②の説明文です。",
+        "link_url": "https://aaa.com/yyy",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ②の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000002"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ③の説明文です。",
+        "link_url": "https://aaa.com/zzz",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ③の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ④の説明文です。",
+        "link_url": "https://aaa.com/zzz#hashtest",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ④の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ⑤の説明文です。",
+        "link_url": "https://aaa.com/zzz#hashtest?param=aaa",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑤の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ⑥の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑥の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ⑦の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑦の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ⑧の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑧の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ⑨の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑨の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ⑩の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑩の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツⅺの説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツⅺの画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ１２の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１２の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ１３の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１３の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ１４の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１４の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ１５の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１５の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "106",
+        "explanatory_text": "コンテンツ１６の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１６の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      }
+    ]
+  },
+  "brandroomCampaign": {
+    "result": {
+      "code": 0,
+      "message": ""
+    },
+    "total": 16,
+    "content_list": [
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ①の説明文です。",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ②の説明文です。",
+        "link_url": "https://aaa.com/yyy",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ②の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000002"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ③の説明文です。",
+        "link_url": "https://aaa.com/zzz",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ③の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ④の説明文です。",
+        "link_url": "https://aaa.com/zzz#hashtest",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ④の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ⑤の説明文です。",
+        "link_url": "https://aaa.com/zzz#hashtest?param=aaa",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑤の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ⑥の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑥の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ⑦の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑦の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ⑧の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑧の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ⑨の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑨の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ⑩の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑩の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツⅺの説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツⅺの画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ１２の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１２の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ１３の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１３の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ１４の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１４の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ１５の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１５の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "107",
+        "explanatory_text": "コンテンツ１６の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１６の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      }
+    ]
+  },
+  "brandroomCommunity": {
+    "result": {
+      "code": 0,
+      "message": ""
+    },
+    "total": 16,
+    "content_list": [
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ①の説明文です。",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ②の説明文です。",
+        "link_url": "https://aaa.com/yyy",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ②の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000002"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ③の説明文です。",
+        "link_url": "https://aaa.com/zzz",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ③の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ④の説明文です。",
+        "link_url": "https://aaa.com/zzz#hashtest",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ④の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ⑤の説明文です。",
+        "link_url": "https://aaa.com/zzz#hashtest?param=aaa",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑤の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ⑥の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑥の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ⑦の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑦の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ⑧の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑧の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ⑨の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑨の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ⑩の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ⑩の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツⅺの説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツⅺの画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ１２の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１２の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ１３の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１３の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ１４の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１４の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ１５の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１５の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      },
+      {
+        "brand_code": "Curel",
+        "disp_area_id": "108",
+        "explanatory_text": "コンテンツ１６の説明文です。",
+        "link_url": "https://aaa.com/zzz?param=aaa&param2=AAA",
+        "image_filepath": "https://via.placeholder.com/960x480/0000FF/808080/",
+        "image_alt": "コンテンツ１６の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000003"
+      }
+    ]
+  },
+  "kireiRecipeCarousel": {
+    "result": {
+      "code": 0,
+      "message": ""
+    },
+    "total": 16,
+    "content_list": [
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "201",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      }
+    ]
+  },
+  "kireiRecipePromotion": {
+    "result": {
+      "code": 0,
+      "message": ""
+    },
+    "total": 16,
+    "content_list": [
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "202",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      }
+    ]
+  },
+  "kireiRecipeContents": {
+    "result": {
+      "code": 0,
+      "message": ""
+    },
+    "total": 16,
+    "content_list": [
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      },
+      {
+        "disp_area_id": "203",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "media_name": "連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名連載名",
+        "author_name": "著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名著者名",
+        "link_url": "https://aaa.com/xxx",
+        "image_filepath": "https://via.placeholder.com/1320x660/0000FF/808080/",
+        "image_alt": "コンテンツ①の画像ALTです。",
+        "intcmp_flg": "1",
+        "task_id": "T0000000001"
+      }
+    ]
+  },
+  "mypageNews": {
+    "result": {
+      "code": 0,
+      "message": ""
+    },
+    "total": 16,
+    "content_list": [
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      },
+      {
+        "disp_area_id": "301",
+        "explanatory_text": "コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①コンテンツタイトル①",
+        "link_url": "https://aaa.com/xxx",
+        "release_date": "2022/03/14"
+      }
+    ]
+  }
+}
